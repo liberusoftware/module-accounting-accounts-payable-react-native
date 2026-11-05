@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-accounts-payable-react-native",
+  "capabilityKey": "liberusoftware/module-accounting-accounts-payable",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-accounting-accounts-payable-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/accounts-payable.md",
+  "presentationPlan": "projects/accounting/react-native/accounts-payable.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
